@@ -24,7 +24,20 @@
 
 
 <img align="right" src="https://64.media.tumblr.com/deac10e78b212f686cf857038c91d59f/e36b79bfdf1a1683-ab/s1280x1920/0949a75c74d6a7750502479f5f8ba89fac1d815f.pnj" alt="placeholder" width="450" />
-<p align="LEFT">
+
+ <img src="https://64.media.tumblr.com/d3c482517cb0ec985a0e2b31de04955c/b1ca44629e35cc6d-43/s400x600/65babf770b098588a67f706efe76add1e62ebc86.pnj" width="300">
+ 
+ <img src="https://64.media.tumblr.com/ca112ef4a489c17d9d2e6d947dd6084f/3c787380642d6bd6-f1/s1280x1920/cd0fa20c1d6f51b361a2fccb9ab020339c2b3f00.jpg" width="300">
+
+  <img src="https://64.media.tumblr.com/0ba85d9d2a87835c279b71714c3745e1/b9c8ce577950c0f6-18/s1280x1920/1670605dfbf3df320040abff46f8cdd85424fb83.pnj" width="300">
+
+  <p align="center">
+   <img src="https://64.media.tumblr.com/17c2172726f50534c31238d84cc28d3c/9860e6e4bff7c555-8c/s400x600/c57418d378d162142154bd9460ce2f86757b0135.gifv" width="700">
+</p>
+
+
+ <img src="https://64.media.tumblr.com/fb678c87fef47cbb5d1c5c63a1578cda/f494bbb1fae51860-14/s250x400/421ef4749b051e970245df609f33d4a05d353297.pnj" width="400">
+ <p align="center">
    <br>
      <br>
      <br>
@@ -32,8 +45,5 @@
 <br>
      <br>
 
- <img src="https://64.media.tumblr.com/22258458cfb8a1cbc9fd7f4a5c5a3b66/82f062ad64b65975-24/s100x200/700d709918e47712a7f205b5a0909f05482f599d.gifv" width="120">
-  <img src="https://64.media.tumblr.com/c0c3f7e9b47cb220e5575a84bb261cde/127cfd34ef82344d-b1/s100x200/eeea065646efd8109265bb07bd8c6b3794fb4769.gifv" width="120">
-   <img src="https://64.media.tumblr.com/027938efc125afad0e96bc031767bcb7/127cfd34ef82344d-c4/s100x200/786d41cab5caf9b104fdbf374b3458d331b41ac6.gifv" width="120">
-
- <img src="https://64.media.tumblr.com/d3c482517cb0ec985a0e2b31de04955c/b1ca44629e35cc6d-43/s400x600/65babf770b098588a67f706efe76add1e62ebc86.pnj" width="300">
+"Action or whatever.."
+-him probably
